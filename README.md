@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 I'm a data analytics professional with experience in customer insights, commercial analysis, and market research across the telecommunications and automotive industries.
 
-My experience in data analytics sparked my curiosity about how data connects with software applications and systems to create practical value. This led me to complete **a Master of Information Technology (Computer Science)** at Queensland University of Technology (QUT), expanding my technical capabilities beyond analytics.
+My experience in data analytics sparked my curiosity about how data is used within software applications and systems. This led me to complete **a Master of Information Technology (Computer Science)** at Queensland University of Technology (QUT), expanding my technical capabilities beyond analytics.
 
-I enjoy looking beyond the numbers, questioning assumptions, and connecting business problems with technical solutions.
+I like digging into data to understand why something is happening, especially when the findings can help solve a real business problem.
 
--  **Currently learning:** Data engineering concepts, with a focus on building reliable, reproducible, and maintainable data workflows.
+-  **Currently learning:** Data engineering, particularly how to build reliable data pipelines and automate data workflows.
 
 ## 🚘 What Drives Me
 
@@ -60,9 +60,9 @@ A university project involving the development of a vegan restaurant discovery p
 
 ## 🥕 What I Enjoy Working On
 
-- **Uncovering meaningful insights :** Analysing data to identify patterns, understand underlying causes, and support business decisions.
-- **Improving data reliability:** Validating data, resolving inconsistencies, and developing reproducible analytical workflows.
-- **Connecting business and technology:** Translating business questions into practical analytical and technical solutions.
+- **Making sense of data:** Finding patterns, investigating unusual results, exploring possible causes, and understanding what they mean for the business.
+- **Getting the data right:** Checking data definitions, spotting inconsistencies, and improving data quality before drawing conclusions.
+- **Connecting data with software:** Exploring how data is stored, processed, and used in applications to solve practical problems.
 
 ## 🛠️ Technical Toolkit
 
@@ -70,7 +70,7 @@ A university project involving the development of a vegan restaurant discovery p
 ![Data Analytics](https://skillicons.dev/icons?i=py,postgres&theme=light)
 
 - **Languages:** SQL, Python
-- **Core Skills:** Data Cleaning, Data Quality, Exploratory Data Analysis, Feature Engineering, Database Querying
+- **Core Skills:** Data Cleaning, Data Quality, Exploratory Data Analysis, Feature Engineering
 
 ### Databases & Backend
 ![Backend Skills](https://skillicons.dev/icons?i=mongodb,nodejs,express,postman&theme=light)
@@ -91,6 +91,8 @@ A university project involving the development of a vegan restaurant discovery p
 
 ## 🤝 Let's Connect
 
-I'm exploring **Data Analyst opportunities in Australia**, particularly with technology-driven organisations where I can combine business insights, technical skills, and meaningful impact.
+I'm currently looking for **Data Analyst opportunities across Australia** where I can put my business analytics experience and technical skills to work.
+
+If my background sounds relevant to what you're looking for, I'd love to connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neal-liu-yenling)
