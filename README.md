@@ -84,6 +84,10 @@ A university project involving the development of a vegan restaurant discovery p
 
 - **Frameworks & Tools:** React Native, Expo
 
+### LeetCode Practice
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nealliu1994?ext=heatmap&theme=light,dark)](https://leetcode.com/u/nealliu1994/)
+
 ## ☘️ A Little More About Me
 - 🐰 Bunny lover
 - 🏀 Sports enthusiast
